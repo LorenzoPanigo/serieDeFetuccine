@@ -1,5 +1,8 @@
 # Série de Fetuccine
-PROMPT:
+
+# Desafio de lógica
+
+EXERCÍCIO:
 
  A série de Fetuccine é gerada da seguinte forma: os dois primeiros termos são fornecidos pelo usuário; a partir daí, os termos são gerados com a soma ou subtração dos dois termos anteriores; ou seja, ela pode-se dar de acordo com as regras seguintes, segundo ou caso que apresente:
 
